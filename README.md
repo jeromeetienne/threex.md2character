@@ -25,6 +25,11 @@ It shows all the possibilities for the skins, the weapons and the animations.
 It shows how to controls the mesh as if it was a player in a game with input
 in the keyboard wasd or arrows keys.
 
+A Screenshot
+============
+[![screenshot](https://raw.githubusercontent.com/jeromeetienne/threex.md2character/master/examples/images/screenshot-threex-md2character-512x512.jpg)](http://jeromeetienne.github.io/threex.md2character/examples/basic.html)
+
+
 How To Install It
 =================
 
