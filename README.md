@@ -27,7 +27,7 @@ in the keyboard wasd or arrows keys.
 
 A Screenshot
 ============
-[![screenshot](https://raw.githubusercontent.com/jeromeetienne/threex.md2character/master/examples/images/screenshot-threex-md2character-512x512.jpg)](http://jeromeetienne.github.io/threex.md2character/examples/basic.html)
+[![screenshot](https://raw.githubusercontent.com/jeromeetienne/threex.md2character/master/examples/images/screenshot-threex-md2character-512x512.jpg)](http://jeromeetienne.github.io/threex.md2character/examples/select.html)
 
 
 How To Install It
