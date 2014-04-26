@@ -17,9 +17,6 @@ The model is make by
 
 Show Don't Tell
 ===============
-* [examples/demo.html](http://jeromeetienne.github.io/threex.md2character/examples/demo.html)
-\[[view source](https://github.com/jeromeetienne/threex.md2character/blob/master/examples/demo.html)\] :
-It shows this feature, and that one which is coded like that.
 * [examples/select.html](http://jeromeetienne.github.io/threex.md2character/examples/select.html)
 \[[view source](https://github.com/jeromeetienne/threex.md2character/blob/master/examples/select.html)\] :
 It shows all the possibilities for the skins, the weapons and the animations.
