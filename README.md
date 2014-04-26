@@ -10,7 +10,7 @@ you got **12 weapons to choose from**, **5 different skins** and **16 distinct a
 It is easy to include in your game, maybe in a cave or a dungeon :)
 It is from 
 [webgl_morphtargets_md2.html three.js example](http://threejs.org/examples/webgl_morphtargets_md2.html). 
-The model is make by
+The model is make by 
 [Brian Collins](http://planetquake.gamespy.com/View.php?view=Quake2.Detail&id=368) and converted by
 [@oosmoxiecode](https://twitter.com/#!/oosmoxiecode)'s 
 [MD2 converter](http://oos.moxiecode.com/blog/2012/01/md2-to-json-converter/).
