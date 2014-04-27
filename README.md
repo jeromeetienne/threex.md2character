@@ -2,7 +2,7 @@ threex.md2character
 ===================
 
 threex.md2character is a 
-[three.js game extension](http://threejsgames.com/extensions/)
+[three.js game extension](http://www.threejsgames.com/extensions/)
 which provides a model of a monster. 
 His name is 'ratmahatta' and is from quake era.
 It is animated, can hold a weapon, skin may be changed. Pretty sweet.
